@@ -43,7 +43,7 @@ public class Tempreture_Converter_1
         } 
         else
         {
-            System.out.println("Invalid input unit. Please use C, F, or K.");
+            System.out.println("Invalid input unit, Please use C, F or K");
             input.close();
             return;
         }
